@@ -1,6 +1,6 @@
 Project Details:
 
-The objective of the project is to use various different classification models using R.
+The objective of the project is to apply various different classification models using R.
 The classification goal is to predict whether a client will subscribe (yes or no).
 
 Dataset Details:
