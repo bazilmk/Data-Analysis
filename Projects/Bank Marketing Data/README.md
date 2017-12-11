@@ -19,7 +19,7 @@ Solution Summary:
   - Boosting
   - Random Forest
 5. Classified each test case as subscribed: yes/no
-6. Did comparitive analysis of the models and reported the accuracy of each model
+6. Did comparative analysis of the models and reported the accuracy of each model
 7. Calculated the confidence of each model and plotted ROC curves for all models
 8. Improved on one of the existing classifiers and determined which model was the best classifier.
 9. Documented the results and analysis into a report.
