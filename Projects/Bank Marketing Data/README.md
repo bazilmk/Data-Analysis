@@ -7,7 +7,7 @@ Dataset Details:
 
 The Bank Marketing Data Set is a summary of the direct marketing campaigns of a Portuguese banking institution. The data we are using is a modified version of the original dataset, which is part of the UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/bank+marketing
 
-Summary:
+Solution Summary:
 
 1. We have taken a random sample of 1000 observations from the original dataset
 2. Explored the data, done some pre-processing, preliminary analysis, completing and cleaning the data.
