@@ -19,4 +19,4 @@ For further info: http://liwc.wpengine.com/wpcontent/uploads/2015/11/LIWC2015_La
 
 Solution:
 
-Refer to the report and R code, it highlights in depth the analysis done.
+Refer to the report and R code, it highlights the analysis done in depth.
