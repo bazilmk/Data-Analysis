@@ -9,10 +9,10 @@ The Bank Marketing Data Set is a summary of the direct marketing campaigns of a 
 
 Solution Summary:
 
-1. We have taken a random sample of 1000 observations from the original dataset
-2. Explored the data, done some pre-processing, preliminary analysis, completing and cleaning the data.
+1. We took a random sample of 1000 observations from the original dataset
+2. Explored the data, did some pre-processing, preliminary analysis, completed and cleaned the data.
 3. Divided the data into 70% training and 30% test set
-4. Creating classification models using the following techniques:
+4. Created classification models using the following techniques:
   - Decision Tree
   - Naïve Bayes
   - Bagging
