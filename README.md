@@ -14,3 +14,5 @@ An overview of what these projects consist of:
 3. Data Analysis
 4. Classification models
 5. Constructing reports of the analysis and visualisations
+
+All analysis is done using R programming
