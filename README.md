@@ -9,7 +9,7 @@ This repository consists of the following:
 2. Problem Sets
 
 An overview of what these projects consist of:
-1. Data Cleaning
+1. Data Wrangling
 2. Data Visualisations
 3. Data Analysis
 4. Classification models
